@@ -1,0 +1,42 @@
+.center{
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 30px solid;
+
+}
+#view{
+    margin-left: 120px;
+    margin-right: 120px;
+    box-shadow: inset;
+    color: skyblue;
+    border: solid skyblue;
+    font-weight: 200;
+    font-size: 37pt;
+    height: 150px;
+    
+}
+button.align{
+    margin-left:120px;
+}
+button{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 6px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    width:150px;
+    border: solid 4px; 
+    font-weight: bold;
+    background-color: white;
+    color: skyblue;
+    font-size: large;
+}
+input{
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+
+    
+}
